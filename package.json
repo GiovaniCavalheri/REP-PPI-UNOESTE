@@ -1,0 +1,25 @@
+{
+  "name": "rep-ppi-unoeste",
+  "version": "1.0.0",
+  "description": "Primeiro exercicio PPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovaniCavalheri/REP-PPI-UNOESTE.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "author": "Giovani Cavalheri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovaniCavalheri/REP-PPI-UNOESTE/issues"
+  },
+  "homepage": "https://github.com/GiovaniCavalheri/REP-PPI-UNOESTE#readme"
+}
