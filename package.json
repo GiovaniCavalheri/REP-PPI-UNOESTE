@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/GiovaniCavalheri/REP-PPI-UNOESTE/issues"
   },
-  "homepage": "https://github.com/GiovaniCavalheri/REP-PPI-UNOESTE#readme"
+  "homepage": "https://github.com/GiovaniCavalheri/REP-PPI-UNOESTE#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
